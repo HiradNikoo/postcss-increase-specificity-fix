@@ -8,11 +8,11 @@
     "postcss-plugin",
     "specificity"
   ],
-  "author": "Eric Eastwood <contact@ericeastwood.com> (http://ericeastwood.com/)",
+  "author": "Hirad Nikoo <hirad.nikoo@gmail.com> + Eric Eastwood <contact@ericeastwood.com> (http://ericeastwood.com/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MadLittleMods/postcss-increase-specificity.git"
+    "url": "https://github.com/MadLittleMods/postcss-increase-specificity-fix.git"
   },
   "main": "index.js",
   "scripts": {
